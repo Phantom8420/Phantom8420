@@ -9,9 +9,9 @@
 <p align="center">
   <a href="https://phantom842.vercel.app"><img src="https://cdn.simpleicons.org/vercel/white" height="28" alt="Portfolio"/></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/phantom842/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="28" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/Phantom842/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="28" alt="LeetCode"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.behance.net/phantom842"><img src="https://cdn.simpleicons.org/behance/1769FF" height="28" alt="Behance"/></a>
+  <a href="https://www.behance.net/Phantom842"><img src="https://cdn.simpleicons.org/behance/1769FF" height="28" alt="Behance"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/Phantom8420"><img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/></a>
 </p>
